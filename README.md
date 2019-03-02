@@ -6,7 +6,7 @@ leaflet1.3.1を使用しています。
 マップアイコンはleafletプラグインのLeaflet.awesome-markers plugin v2.0を使用しています。
 
 ## デモ
-  https://codeformatsudo.github.io/busstop_otaki/
+  https://civictechzenchiba.github.io/iodd2019_chibamap/.
 
 
 ## 使い方
